@@ -220,17 +220,4 @@ Selected key references from the literature review:
 3. Patterson, *Foreign Object Debris (FOD) Detection Research*, FAA Technical Note, 2017.
 4. Manufacturer technical briefs: Stratech Tarsier, Xsight FODetect, Trex FODFinder.
 
----
 
-## Team
-
-- **Sanoer Soni** — Lead developer, edge inference pipeline, MQTT architecture, dashboard implementation
-- **Tanisha Jaiswal** — Multi-sensor integration, hardware mounting, field testing
-- **Shipra Bagade** — Dataset curation, literature review, IEEE paper drafting
-
-**Academic guidance:** Dr. Nilam Pradhan & Dr. Netra Lokhande, Department of Electronics & Communication Engineering, MIT-WPU Pune.
-
----
-
-*B.Tech capstone project — School of Electronics & Communication Engineering (AI/ML), MIT World Peace University, Pune.*
-*January 2026 – present.*
